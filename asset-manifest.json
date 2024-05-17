@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/project_starphone/static/css/main.c4c06f17.css",
+    "main.js": "/project_starphone/static/js/main.fbb79f4f.js",
+    "static/media/gallery.png": "/project_starphone/static/media/gallery.29b9d5426511d6b568e9.png",
+    "static/media/game.png": "/project_starphone/static/media/game.b3fc5a47c6f02d5e66ed.png",
+    "static/media/5g.png": "/project_starphone/static/media/5g.4a6ec3e77b95f5c1c1bb.png",
+    "static/media/camera.png": "/project_starphone/static/media/camera.9a76beeafd39be6b50ee.png",
+    "static/media/intro-2.jpg": "/project_starphone/static/media/intro-2.d5c80fd3fa3999903ace.jpg",
+    "static/media/cooling.png": "/project_starphone/static/media/cooling.80f07fece670ec74588c.png",
+    "static/media/display.jpg": "/project_starphone/static/media/display.1c8e01f253bf4d87bffe.jpg",
+    "index.html": "/project_starphone/index.html",
+    "main.c4c06f17.css.map": "/project_starphone/static/css/main.c4c06f17.css.map",
+    "main.fbb79f4f.js.map": "/project_starphone/static/js/main.fbb79f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c06f17.css",
+    "static/js/main.fbb79f4f.js"
+  ]
+}
